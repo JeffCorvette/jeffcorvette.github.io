@@ -1,0 +1,19 @@
+{
+   "name":"Celestial Supreme #95",
+   "image":"https://celt.game/static/warships/1.png",
+   "description":"Celestial Warship for OKEX NFT Auction, stats are beyond normal limitation",
+   "attributes":[
+      {
+         "trait_type":"quality",
+         "value":"4"
+      },
+      {
+         "trait_type":"exploitation",
+         "value":"45000000000000000000"
+      },
+      {
+         "trait_type":"exploitationPercent",
+         "value":"3"
+      }
+   ]
+}
